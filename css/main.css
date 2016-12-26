@@ -34,3 +34,8 @@ img {
 img.image-text {
     width: 20px;
 }
+
+
+img.flourish {
+    width: 100%;
+}
